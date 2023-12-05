@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["企业所得税"],"permalink":"/基础资料/参考文献/税收法律/中华人民共和国企业所得税法/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"tags":["企业所得税","税务管理"],"文号":null,"permalink":"/基础资料/参考文献/税收法律/中华人民共和国企业所得税法/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
