@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":null,"permalink":"/基础资料/参考文献/税收法律/中华人民共和国契税法/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"tags":["契税","税务管理"],"文号":null,"permalink":"/基础资料/参考文献/税收法律/中华人民共和国契税法/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
