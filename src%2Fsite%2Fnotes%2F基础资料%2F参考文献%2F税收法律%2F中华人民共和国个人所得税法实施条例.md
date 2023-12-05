@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["税务管理"],"permalink":"/基础资料/参考文献/税收法律/中华人民共和国个人所得税法实施条例/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"tags":["税务管理","个人所得税"],"permalink":"/基础资料/参考文献/税收法律/中华人民共和国个人所得税法实施条例/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ---
