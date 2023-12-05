@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/基础资料/参考文献/税收法律/中华人民共和国增值税暂行条例/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"tags":["增值税","财务管理"],"文号":null,"permalink":"/基础资料/参考文献/税收法律/中华人民共和国增值税暂行条例/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ---
